@@ -1,4 +1,4 @@
-close all;clear;clc;
+delete first line 
 % warning off;
 
 %% Calculation
